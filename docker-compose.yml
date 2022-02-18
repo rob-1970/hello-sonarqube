@@ -1,6 +1,7 @@
 version: "3.0"
 
 services:
+services:
 
   sonarqube:
     image: sonarqube:community
